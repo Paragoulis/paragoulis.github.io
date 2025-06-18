@@ -1,0 +1,209 @@
+[
+  {
+    "id": "lazacossali",
+    "title": "Lazacos saláta",
+    "description": "Lazacos-avokádós saláta. Minden mi jó! :)",
+    "ingredients": [
+      "2 g quinoa",
+      "400 g lazac",
+      "1 db citrom",
+      "2 ek olívaolaj",
+      "1 fej római saláta",
+      "1 db kígyúuborka",
+      "2 db répa",
+      "3 db avokádó",
+      "50 g bébispenót",
+      "só, bors",
+      "2 ek sriracha szósz",
+      "2 ek olívaolaj",
+      "2 ek méz",
+      "2 db citrom kifacsart leve",
+      "3 gerezd fokhagyma",
+      "2 ek fehér szezámmag",
+      "2 ek fekete szezámmag"
+    ],
+    "instruction": "Az öntethez elkeverjük egy tálban a sriracha szószt, az olívaolajat, a citromok kifacsart levét, a mézet és a reszelt fokhagymát.\nA quinoát sós vízben puhára főzzük, majd félrerakjuk hűlni.\nA római salátát vékony csíkokra vágjuk, az uborkát és a répát lereszeljük, majd hozzádobjuk a 1,5 cm-es kockára vágott avokádót, a bébispenót-leveleket és a kihűlt quinoát, majd alaposan összekeverjük.\nA lazacot egy éles késsel megszabadítjuk a bőrétől, majd kb. 2 cm-es kockákra vágjuk, sózzuk, borsozzuk, meglocsoljuk egy citrom levével, és egy forró serpenyőben, 2-3 perc alatt alaposan lepirítjuk az olajon.\nA saláta tetejére pakoljuk a lazackockákat és megszorjuk szezámmaggal."
+  },
+  {
+    "id": "pastamargherita",
+    "title": "Pasta Margherita",
+    "description": "A Margherita tészta.",
+    "ingredients": [
+      "200 g spagetti",
+      "2 ek olívaolaj",
+      "3 gerezd fokhagyma",
+      "120 g passata",
+      "só, bors",
+      "0,25 csokor bazsalikom",
+      "100 g mozzarella golyó"
+    ],
+    "instruction": "A spagettit forrásban lévő, enyhén sós vízbe rakjuk főni, a csomagoláson jelzett útmutató alapján.\nAz olajat felhevítjük egy serpenyőben, mehetnek a zúzott fokhagymagerezdek és a passata.\nSózzuk, borsozzuk az alapot, és 5-6 percig főzzük, hogy kicsit besűrűsödjön.\nA bazsalikom nagy részét csíkokra vágva belekeverjük a paradicsomos alapba.\nJöhet a kifőtt tészta, majd alaposan átforgatjuk és tányérokra szedjük.\nHozzáadjuk a mozzarella golyókat és pár bazsalikomlevelet."
+  },
+  {
+    "id": "kavesbbq",
+    "title": "Kávés BBQ",
+    "description": "Kávés BBQ oldalas salátával.",
+    "ingredients": [
+      "1 fej vöröshagyma",
+      "4 gerezd fokhagyma paradicsom",
+      "1 ek egész fekete bors",
+      "1 ek egész kömény",
+      "1 ek koriandermag",
+      "1 csokor kakukkfű",
+      "200 ml sötét szójaszósz",
+      "1 db chilipaprika",
+      "1 kg sertésoldalas",
+      "só",
+      "150 g ketchup",
+      "1 tk őrölt kávé",
+      "1 tk fokhagyma-granulátum",
+      "1 tk őrölt gyömbér",
+      "1 tk füstölt paprika",
+      "0,5 db citrom",
+      "30 ml sötét szójaszósz",
+      "1 ek méz",
+      "800 g újkrumpli",
+      "1 ek sertészsír",
+      "1 ág rozmaring",
+      "2 ek baracklekvár",
+      "2 tk mustár",
+      "100 ml étolaj",
+      "0,5 fej jégsaláta",
+      "1 db paradicsom",
+      "0,25 db kígyóuborka",
+      "0,25 db sárga kaliforniai paprika"
+
+    ],
+    "instruction": "A vöröshagymát, a fokhagymát, a fekete borsot, a köményt, a koriandermagot, a kakukkfüvet, a sót, a szójaszószt, a felezett chilipaprikát és a feldarabolt oldalast beletesszük 1,5 liter vizet tartalmazó fazékba.\nAlacsony lángon gyöngyözve addig főzzük, amíg a hús teljesen meg nem puhul, ez körülbelül 1,5-2 óra, amint a hús megpuhult, kivesszük a léből.\nA ketchupban elkeverjük a kávét, a fokhagyma-granulátumot, az őrölt gyömbért, a füstölt paprikát, a citrom reszelt héját és kifacsart levét, a szójaszószt és a mézet.\nA krumplikat elfelezzük és enyhén sós, bő, lobogó vízben 80%-os készültségig főzzük, majd kivesszük és egy tálba tesszük.\nHozzáadjuk a zsírt, majd amikor az a forró krumplitól elolvadt, átkeverjük, hogy a zsír mindenhol bevonja a krumplikat, és megsózzuk.\nA húsokat a grillre tesszük, és megkenjük az egyik oldalukat a ketchupos mázzal. Oldalanként kb. 1 percig pirítjuk, amikor megfordítottuk, a másik oldalát is lekenjük, és még 1-1 percig pirítjuk a húst.\nA krumplikat is a grillrácsra tesszük és oldalanként 2-3 percig sütjük. Miután levettük a rácsról, megszórjuk frissen aprított rozmaringgal.\nA dresszinghez egy tálba tesszük a lekvárt, a mustárt és az olajat, majd egy habverő segítségével addig keverjük, amíg homogén állagú öntetet kapunk.\nA jégsalátát vékony csíkokra vágjuk és a többi zöldséget is felszeleteljük."
+  },
+  {
+    "id": "csirkerizs",
+    "title": "Csirke rizs",
+    "description": "Csirke, rizs és brokkoli.",
+    "ingredients": [
+      "olívaolaj",
+      "csirkemell",
+      "rizs",
+      "brokkoli",
+      "lime",
+      "chilipehely",
+      "só, bors"
+    ],
+    "instruction": "A rizst megmossuk és sós vízben megfőzzük.\nA csirkemelleket megsózzuk, és egy forró, sütőbe is tehető serpenyőben, nagy lángon körbepirítjuk olívaolajon.\nHa megpirultak, megborsozzuk őket, majd 150 fokra előmelegített sütőbe tesszük. Ha a csirkemell legvastagabb része kb. 3 cm, akkor 12 percig sütjük, és minden plusz 0,5 cm 1 percet hozzáad a sütőben eltöltött időhöz.\nHa kész, félrerakjuk pihenni egy tálra, és néhány percenként fordítunk rajta egyet, hogy ne melegedjen túl az alsó fele, és benne maradjon a szaft.\nA brokkolit rózsáira szedjük, és lobogó, sós vízbe dobjuk 2-3 percre, majd rögtön mehet hideg vízbe.\nA csirkéhez használt serpenyőt újra felmelegítjük, belefacsarjuk egy fél lime levét, belereszeljük a héját, szórunk bele chilit, és felöntjük a vízzel.\nAz így kapott csirkés-citrusos szószba beleforgatjuk a brokkolit.\nTányérba szedünk a rizsből és a brokkoliból, majd felszeleteljük a csirkét, és ezt is ráhelyezzük."
+  },
+  {
+    "id": "turosteszta",
+    "title": "Túrós tészta",
+    "description": "Egyszerűen nagyszerű.",
+    "ingredients": [
+      "túró",
+      "tejföl",
+      "fodros kockatészta",
+      "lime",
+      "só"
+    ],
+    "instruction": "A túrót és a tejfölt egy tálban összekeverjük, majd belefacsarjuk egy fél lime levét és belereszeljük a héját.\nFélre tesszük pihenni a hütőben 15-20 percre.\nA tésztát forrásban lévő, enyhén sós vízbe rakjuk főni, a csomagoláson jelzett útmutató alapján.\nA kifőtt tésztát és a túrós masszát jól összekeverjük."
+  },
+  {
+    "id": "hamismilanoi",
+    "title": "Hamis milánoi makaróni",
+    "description": "Lélekben milánói makaróni.",
+    "ingredients": [
+      "2 ek olívaolaj",
+      "1 fej vöröshagyma",
+      "3 gerezd fokhagyma",
+      "250 g gomba",
+      "1 konzerv lencse (290 g kiszerelés)",
+      "600 ml passata",
+      "250 g bucatini tészta",
+      "0,25 csokor bazsalikom",
+      "só",
+      "4 ek sörélesztőpehely",
+      "30 g kesudió"
+    ],
+    "instruction": "Felaprítjuk a vöröshagymát, majd egy kevés olajon lepirítjuk.\nAmikor lepirult, mehet hozzá a reszelt fokhagyma és a felcikkezett gomba.\nTovábbi 3-4 percig pirítjuk, majd hozzáadjuk a leszűrt lencsét, felöntjük a passatával és a vízzel, majd kb. 6-8 percig főzzük.\nA tésztát forrásban lévő, enyhén sós vízbe rakjuk főni, a csomagoláson jelzett útmutató alapján.\nA kesu-parmezánhoz egy aprítógépbe dobjuk a kesudiót és a sörélesztőpelyhet, majd egynemű porrá zúzzuk és félretesszük.\nA milánói alapjába beledobjuk a durvára aprított bazsalikomot és még 2 percig rotyogtatjuk.\nA tányérba szedünk egy adag tésztát, megküldjük a milánói szósszal, és alaposan megszórjuk a kesu-parmezánnal."
+  },
+  {
+    "id": "gombasgnocchi",
+    "title": "Gombás gnocchi",
+    "description": "Gombás bébispenótos gnocchi.",
+    "ingredients": [
+      "50 g vaj",
+      "300 g csiperkegomba",
+      "1 fej vöröshagyma",
+      "4 gerezd fokhagyma",
+      "2 szál kakkukfű",
+      "200 g bébispenpót",
+      "100 ml víz",
+      "250 ml zabkrém (főzéshez)",
+      "500 g gnocchi",
+      "só, bors",
+      "20 g parmezán"
+    ],
+    "instruction": "Egy nagyobb serpenyőben habzásig melegítünk a vajat, és közepes-magas közötti hőmérsékleten aranybarnára sütjük benne a felszeletelt gombát kb. 10 perc alatt.\nHa kész, kiszedjük egy tányérba és félretesszük.\nA visszamaradt zsiradékban 2-3 perc alatt megdinszteljük a félfőre vágott vöröshagymát és a szeletelt fokhagymát.\nJöhet hozzá a kakukkfű morzsolt levele és a bébispenót, amit megfonnyasztunk az alapon.\nHa összeesett, felöntjük a vízzel és a zabkrémmel.\nHozzáadjuk a gnocchit és 4-5 perc alatt összefőzzük az egészet.\nVisszatesszük a serpenyőbe a pirított gombát, sózzuk, borsozzuk, és egy alapos keverjük össze.\nTálaláskor a tetejére reszeljünk egy kis parmezánt."
+  },
+  {
+    "id": "chiliskacsacomb",
+    "title": "Mézes-chilis kacsacomb",
+    "description": "Ünnepi fogás.",
+    "ingredients": [
+      "4 db kacsacomb",
+      "2 ek kacsazsír",
+      "3 gerezd fokhagyma",
+      "1 tk bazsalikom",
+      "1 tk majoranna",
+      "4 db zsályalevél",
+      "4 - 5 db nagyobb krumpli",
+      "6 - 8 db chilipaprika",
+      "3 ek méz",
+      "só, bors"
+    ],
+    "instruction": "A kacsacombokat megtisztítjuk, és jó alaposan sózzuk, borsozzuk.\nA tepsibe belekanalazzuk a kacsazsírt, és beletesszük a combokat bőrrel lefelé.\nMegszórjuk a bazsalikommal, majorannával.\nMellétesszük a zsályaleveleket, a cikkekre vágott, sózott krumplikat és a kettévágott fokhagymagerezdeket.\nFelöntjük 1 deci vízzel, és alufóliával lefedve 160 fokon 1 órán keresztül sütjük.\nEzután megfordítjuk a combokat, megint letakarjuk az alufóliával, és újabb 1 órát sütjük.\nHa letelt az idő, levesszük a fóliát, és a combokat megkenjük a felszeletelt chili és méz keverékével.\nFelvesszük a sütő hőfokát 190 fokra, és további 10-15 percig sütjük, míg meg nem pirul."
+  },
+  {
+    "id": "mangosteszta",
+    "title": "Mangós tésztasaláta",
+    "description": "Mangós-fetás tésztasaláta kacsamellel.",
+    "ingredients": [
+      "350 g fusili",
+      "2 db mangó (350 g/db)",
+      "0,5 kígyóuborka (250 g/db)",
+      "1 fej lilahagyma (90 g/fej)",
+      "1 db sárgarépa (80 g/szál)",
+      "1 ág menta",
+      "50 g pörkölt sótlan mogyoró",
+      "100 g feta sajt",
+      "50 ml olívaolaj",
+      "2 db kacsamell (350 g/db)",
+      "3 gerezd fokhagyma",
+      "2 ág rozmaring",
+      "só, bors"
+    ],
+    "instruction": "A tésztát enyhén sós, bő, lobogó vízben a csomagoláson feltüntetett idő alatt készre főzzük, majd hideg vízzel átmossuk.\nA mangót és az uborkát kb. 1 cm-es darabokra, a lila hagymát pedig kisebb kockákra vágjuk, a sárgarépát nagy lyukú reszelőn lereszeljük.\nAz előkészített zöldségeket hozzáadjuk a tésztához, megsózzuk, majd az egészet összekeverjük.\nA húst a bőrös oldalán beirdaljuk, sózzuk, borsozzuk, majd betesszük a hideg serpenyőbe bőrrel lefelé.\nKözepes hőfokon kb. 4 perc alatt kisütjük a zsírját, majd megfordítjuk, mellé dobjuk a fokhagymát, a rozmaringot, és közepesen erős hőfokon lepirítjuk a többi oldalát is. Ha nagyon sok zsírt engedett ki magából a bőr, akkor egy keveset nyugodtan öntsünk le róla.\n Amikor szép kérget kapott a hús, mérettől és kívánt készültségi foktól függően betesszük a 160 fokos sütőbe 6-10 percre.\nAmikor letelt az idő, kivesszük a sütőből és a serpenyőből is a húst, és hagyjuk kb. 10 percet pihenni.\nA saláta tetejét megszórjuk a frissen aprított mentával, a durvára tört mogyoróval, rámorzsoljuk a fetát, ráhelyezzük a vékonyan felszeletelt kacsamellet, és az egészet meglocsoljuk az olívaolajjal."
+  },
+  {
+    "id": "tofutikkamasala",
+    "title": "Tofu tikka masala",
+    "description": "Jóféle.",
+    "ingredients": [
+      "ízesített vagy füstölt tofu",
+      "vöröshagyma",
+      "zabkrém (főzéshez)",
+      "bébispenót",
+      "újhagyma vagy póréhagyma",
+      "pici paprikakrém",
+      "olívaolaj",
+      "mandulapehely",
+      "kókuszreszelék",
+      "gyömbér",
+      "0,5 lime leve",
+      "currypor",
+      "kurkuma",
+      "csipetnyi kardamon",
+      "1 csokor friss koriander",
+      "só, bors",
+      "rizs"
+    ],
+    "instruction": "Az olajon megpirítjuk az apróra vágott hagymákat és a gyömbért, sózzuk, borsozzuk.\nMegszórjuk fűszerekkel, és 2 percet pirítjuk.\nRádobjuk a 2-3 cm-es kockákra vágott tofut (bármilyen nagyságúra vághatjátok), felöntjük a zabkrémmel, majd 10 percet rotyogtatjuk.\nÍzlés szerint meglocsoljuk limelével, megszórjuk friss korianderrel.\nFőtt rizzsel tálaljuk."
+  }
+]
