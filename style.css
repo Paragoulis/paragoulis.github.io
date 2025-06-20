@@ -1,15 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background: #fefefe;
+  font-family: "Noto Sans", Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9f9f9;
+  color: #1f2937;
 }
 
 header {
-  /*background-color: #ff7043;*/
-  background-color: #4CAF50;
+  background-color: #3b82f6;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   color: white;
   padding: 1rem;
   text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 .container {
@@ -21,29 +27,81 @@ header {
 
 .card {
   background: white;
-  border: 1px solid #ddd;
-  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
   padding: 1rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  transition: transform 0.2s;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
   cursor: pointer;
   text-decoration: none;
-  color: black;
+  color: #1f2937;
 }
 
 .card:hover {
   transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.08);
 }
 
 .recipe-page {
-  padding: 1rem;
+  padding: 1rem 2rem;
 }
 
 .back {
   display: inline-block;
   margin-bottom: 1rem;
-  /*color: #ff7043;*/
-  color: #4CAF50;
+  color: #3b82f6;
   text-decoration: none;
   font-weight: bold;
+}
+
+.search-container {
+  padding: 1rem;
+  text-align: center;
+}
+
+.search-wrapper {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+}
+
+#search {
+  width: 100%;
+  max-width: 400px;
+  padding: 0.5rem 2.5rem 0.5rem 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  background-color: white;
+}
+
+#clear-search {
+  position: absolute;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  color: #9ca3af;
+}
+
+#clear-search:hover {
+  color: #4b5563;
+}
+
+#search-button {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  color: #3b82f6;
+}
+
+#search-button:hover {
+  color: #2563eb;
+}
+
+h1, h2, h3 {
+  margin: 0.5rem 0;
 }
