@@ -27,7 +27,7 @@
   {
     "id": "pastamargherita",
     "title": "Pasta Margherita",
-    "description": "A Margherita tészta.",
+    "description": "A Margherita tészta",
     "ingredients": [
       "200 g spagetti",
       "2 ek olívaolaj",
@@ -42,7 +42,7 @@
   {
     "id": "kavesbbq",
     "title": "Kávés BBQ",
-    "description": "Kávés BBQ oldalas salátával.",
+    "description": "Kávés BBQ oldalas salátával",
     "ingredients": [
       "1 fej vöröshagyma",
       "4 gerezd fokhagyma",
@@ -79,7 +79,7 @@
   {
     "id": "csirkerizs",
     "title": "Csirke rizs",
-    "description": "Csirke, rizs és brokkoli.",
+    "description": "Csirke, rizs és brokkoli",
     "ingredients": [
       "olívaolaj",
       "csirkemell",
@@ -94,7 +94,7 @@
   {
     "id": "turosteszta",
     "title": "Túrós tészta",
-    "description": "Egyszerűen nagyszerű.",
+    "description": "Egyszerűen nagyszerű",
     "ingredients": [
       "túró",
       "tejföl",
@@ -107,7 +107,7 @@
   {
     "id": "hamismilanoi",
     "title": "Hamis milánoi makaróni",
-    "description": "Lélekben milánói makaróni.",
+    "description": "Lencse a barátunk",
     "ingredients": [
       "2 ek olívaolaj",
       "1 fej vöröshagyma",
@@ -126,7 +126,7 @@
   {
     "id": "gombasgnocchi",
     "title": "Gombás gnocchi",
-    "description": "Gombás bébispenótos gnocchi.",
+    "description": "Gombás bébispenótos gnocchi",
     "ingredients": [
       "50 g vaj",
       "300 g csiperkegomba",
@@ -145,7 +145,7 @@
   {
     "id": "chiliskacsacomb",
     "title": "Mézes-chilis kacsacomb",
-    "description": "Ünnepi fogás.",
+    "description": "Ünnepi fogás",
     "ingredients": [
       "4 db kacsacomb",
       "2 ek kacsazsír",
@@ -184,7 +184,7 @@
   {
     "id": "tofutikkamasala",
     "title": "Tofu tikka masala",
-    "description": "Jóféle.",
+    "description": "Ázsai gyönyör",
     "ingredients": [
       "ízesített vagy füstölt tofu",
       "vöröshagyma",
@@ -218,5 +218,63 @@
       "só,bors"
     ],
     "instruction": "A csirkemell szeleteket enyhén megklopfoljuk kb. 1-1,5 cm-es vastagságúra, és sózzuk, borsozzuk.\nEgy sütőbe helyezhető serpenyőben az olívaolajon, közepesen magas hőmérsékleten megpirítjuk a csirkemell mindkét oldalát 2-2 perc alatt, majd lehúzzuk a tűzhelyről.\nA tetejére helyezzük a magtól megszabadított, 0,5 cm-es szeletekre vágott őszibarackot, és befedjük a reszelt füstölt sajttal.\nBetesszük grill funkción, 220 fokra előmelegített sütőbe a serpenyőt, és kb. 10 perc alatt rásütjük a sajtot."
+  },
+  {
+    "id": "nektarinoscsirke",
+    "title": "Fetás-nektarinos csirkemell",
+    "description": "Fetás-nektarinos csirkemell serrano sonkában",
+    "ingredients": [
+      "csirkemell (400g)",
+      "nektarin (180g)",
+      "50 g feta sajt",
+      "10 db mentalevé",
+      "10 szál snidling",
+      "200 g serrano sonka",
+      "só,bors",
+      "500 g burgonya (tisztított súly)",
+      "100 g lágy vaj",
+      "200 ml görög joghurt"
+    ],
+    "instruction": "A csirkemell szeleteket félig bevágjuk, hogy ki tudjuk nyitni, mint egy könyvet, majd óvatosan kikloppfoljuk kb. 0,5 cm vastagságúra, és sózzuk, borsozzuk.\nA félbevágott nektarint vékony szeletekre vágjuk, és a csirkemell közepére rakjuk.\nRáhalmozzuk a fetát, megszórjuk aprított mentával és snidlinggel.\nSzorosan felgöngyöljük, úgy, hogy a szeleit benyomkodjuk, hogy a töltelék ne tudjon majd kifolyni sütés közben.\nAz asztalra folpackot terítünk, és erre fektetjük a serrano sonkát, akkora területen, amibe teljesen bele tudjuk göngyölni a csirkéket.\nA folpackot használva jól belebugyoláljuk a csirkét a sonkába úgy, mintha egy szaloncukor lenne. 5 percig pihentetjük, hogy valójában szoros tekercseket kapjunk.\nKicsomagolás után tepsire helyezzük, és 185 fokos előmelegített sütőben, kb. 35-40 perc alatt készre sütjük.\nA kb. 3 cm-es kockára vágott burgonyát enyhén sós vízben puhára főzzük, majd leszűrjük.\nMég melegen áttörjük, és kihabosítjuk a vajjal, majd hozzákeverjük a joghurtot is.\nTálalásnál a püréből egy nagy kanállal szedünk a tányérra, mellé helyezzük a szeletelt csirketekercset, meglocsoljuk a kisült szafttal és megszórjuk egy kevés finomra vágott snidlinggel."
+  },
+  {
+    "id": "husgolyoszendvics",
+    "title": "Húsgolyó szendvics",
+    "description": "Olaszos húsgolyó szendvics",
+    "ingredients": [
+      "0,5 fej vöröshagyma (60 g)",
+      "1 szál angolzeller (50 g)",
+      "0,5 szál sárgarépa (70 g)",
+      "3 gerezd fokhagyma",
+      "olívaolaj",
+      "400 ml passata",
+      "só,bors",
+      "200 ml víz",
+      "500 g darált sertéshús",
+      "1 db tojás",
+      "1 ek morzsolt oregánó",
+      "1 ek morzsolt bazsalikom",
+      "2 ek zsemlemorzsa",
+      "30 g parmezán",
+      "4 db ciabata",
+      "240 g mozzarella",        
+      "1 csokor bazsalikom"
+    ],
+    "instruction": "A paradicsomszószhoz a zöldségeket egy késes aprítóban durvára vágjuk, és egy lábasban elkezdjük lepirítani az olívaolajon.\nFelöntjük a passatávál, sózzuk, borsozzuk és hozzáadjuk a vizet is, majd 10 percig főzzük közepes lángon.\nA darált húshoz adjuk a tojást, a fűszereket, sózzuk, borsozzuk, aztán összekeverjük a zsemlemorzsával és a reszelt parmezánnal.\nA masszából gombócokat formázunk és egy serpenyőben, nagy lángon körbepíritjuk őket olívaolajon.\nA megpíritott gombócokat belerakjuk a paradicsomszószba, és 10 percig főzzük.\nA ciabattákat kettévágjuk és a serpenyőben maradt olívaolajon megpíritjuk a vágott felüket.\nMegpakoljuk a ciabatta a paradicsomszószos húsgolyókkal, rátesszük a szeletelt mozzarellát és tépkedünk bele pár bazsalikomot, majd lezárjuk a ciabatta tetejével"
+  },
+  {
+    "id": "joghurtosdinnyeleves",
+    "title": "Joghurtos dinnyeleves",
+    "description": "Frissítő fogás",
+    "ingredients": [
+      "2 kg görögdinnye (héj nélküli mennyiség)",
+      "250 g görög joghurt",
+      "40 g porcukor",
+      "1 ek citromlé",
+      "250 g sárgadinnye (héj nélküli mennyiség)",
+      "eper",       
+      "4 levél friss bazsalikom"
+    ],
+    "instruction": "A hűtőhideg görögdinnye húsából eltávolítjuk a magokat, majd egy konyhai aprítóba tesszük és lezúzzuk. Fontos, hogy ne turmixba tegyük!\nA dinnyét egy sűrű szűrőn átszűrjük. A levéhez adjuk a görög joghurtot, a porcukrot, a citromlevet, és egy habverővel alaposan összekeverjük.\nA sárgadinnyéből egy karalábévájóval kis gombócokat formázunk, majd a leveshez adjuk.\nTalálaskor teszük bele epret és megszórjuk csíkokra vágott bazsalikommal."
   }
 ]
